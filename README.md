@@ -15,7 +15,9 @@ Step 3: npm run dev
 
 Create an api key using the website: 
 https://newsapi.org/
+
 In the main folder create an .env file and add the following line of code:
+
 VITE_API_KEY= (insert your api key)
 
 Screenshot of the application:
