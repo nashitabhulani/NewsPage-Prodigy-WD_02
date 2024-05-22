@@ -13,6 +13,11 @@ Step 2: In the terminal write: npm install
 
 Step 3: npm run dev 
 
+Create an api key using the website: 
+https://newsapi.org/
+In the main folder create an .env file and add the following line of code:
+VITE_API_KEY= (insert your api key)
+
 Screenshot of the application:
 
 ![image](https://github.com/nashitabhulani/NewsPage-Prodigy-WD_02/assets/98688174/6254284b-406d-4ace-b619-3a47e5839db2)
