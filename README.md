@@ -24,6 +24,4 @@ Screenshot of the application:
 
 ![image](https://github.com/nashitabhulani/NewsPage-Prodigy-WD_02/assets/98688174/6254284b-406d-4ace-b619-3a47e5839db2)
 
-the file structure should look something like this :
 
-![image](https://github.com/nashitabhulani/NewsPage-Prodigy-WD_02/assets/98688174/fe4b3003-8482-4524-b6b4-4179e528745d)
